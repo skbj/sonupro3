@@ -1,0 +1,646 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'ITC Avant Garde Gothic Std';
+
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.header {
+    width: 100%;
+    background-image: url(.//Group\ 297.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+    height: 100vh;
+}
+
+
+
+.header h2 {
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 220px;
+    margin-left: 178px;
+    font-size: 30px;
+    font-weight: bold;
+
+
+
+
+
+}
+
+.team {
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+
+    padding-left: 300px;
+    margin-top: 100px;
+
+
+
+}
+
+.team p {
+
+    padding-left: 250px;
+    padding-top: 18px;
+
+
+
+}
+
+.team h4 {
+
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: red;
+
+
+
+}
+
+
+
+
+.year {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 20px;
+
+
+
+
+}
+
+.col {
+    flex-basis: 20%;
+    margin: auto;
+
+
+}
+
+.vertical {
+
+    border: 1px solid blue;
+    margin-left: -80px;
+    opacity: .4;
+
+}
+
+.vertical:hover {
+
+    border: 1px solid blue;
+    margin-left: -80px;
+    opacity: 1;
+
+}
+
+.row {
+
+
+    display: flex;
+
+}
+
+
+
+span {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.red {
+
+
+    color: red;
+}
+
+
+
+
+.custmer {
+    background-image: url(./pngwing\ 2.jpg), url(./pngwing\ 3.jpg);
+
+    background-position: top right, left center;
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    position: relative;
+    margin: auto;
+    margin-top: 120px;
+    background-size: 400px 400px, 400px 400px;
+
+
+}
+
+.custmer-text p {
+    color: red;
+    padding-top: 130px;
+    padding-left: 300px;
+
+
+
+}
+
+.custmer-text h3 {
+    margin-top: 10px;
+
+    margin-left: 300px;
+}
+
+
+
+
+.col1 img {
+    width: 100%;
+    height: 400px;
+
+
+}
+
+.col1 {
+    flex-basis: 25%;
+    margin-top: 40px;
+    margin-right: 20px;
+
+
+}
+
+.row {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: right;
+
+}
+
+
+.approch {
+    background-image: url(./Group\ 324.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    margin-top: 200px;
+    position: relative;
+
+}
+
+.apro-text {
+
+    padding-top: 200px;
+
+    margin-left: 300px;
+
+
+    color: #FFFFFF;
+
+
+}
+
+.apro-text h3 {
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.row1 {
+    display: flex;
+
+    margin-top: 20px;
+
+
+}
+
+.detail {
+    margin-top: 40px;
+
+    text-align: center;
+}
+
+.detail #bg {
+
+
+
+    padding: 10px 100px;
+    display: inline-block;
+    color: #FFFFFF;
+
+}
+
+#op {
+
+
+    color: #FFFFFF;
+    font-size: 15px;
+
+}
+
+.contact {
+    background-image: url(./\ 15.jpg);
+    width: 100%;
+    height: 80vh;
+
+    opacity: .3;
+
+
+}
+
+.contact-text {
+
+
+    margin-top: 200px;
+    margin-left: 250px;
+    font-size: 15px;
+
+
+}
+
+.contact-text h3 {
+
+    padding-top: 30px;
+
+
+}
+
+#map {
+
+    font-size: 15px;
+    margin-top: 50px;
+    margin-right: 10px;
+
+}
+
+
+
+
+
+
+.direction {
+    margin-top: -400px;
+
+
+
+}
+
+
+.drect-col u {
+    font: 20px;
+}
+
+
+
+
+
+
+.drect-col {
+
+    padding-top: 50px;
+    margin: auto;
+
+
+}
+
+.row2 {
+
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer {
+    padding: 20px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+
+.row3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.fo-col ul a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin: 8px 10px;
+
+
+
+}
+
+
+
+.fo-col {
+
+    margin: auto;
+    color: #FFFFFF;
+    padding-top: 30px;
+
+
+
+
+
+
+}
+
+.bi2 {
+
+    font-size: 15px;
+    margin: 10px;
+
+}
+
+.fo-col .u {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.for {
+
+    width: 100%;
+
+    padding-right: 30px;
+    padding: 50px;
+    margin-right: 50px;
+
+
+}
+
+.textbox {
+
+    background-color: aliceblue;
+    width: 100%;
+    margin: 8px 0px;
+    font-size: 20px;
+    color: wheat;
+    padding: 8px 0px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    height: 100%;
+    padding: 10px;
+}
+
+.textbox input {
+    width: 100%;
+    background: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+
+
+}
+iframe{
+
+
+    margin: auto;
+}
+
+
+.i {
+    color: black;
+    font-size: 15px;
+
+
+
+}
+
+.area {
+
+    padding: 20px;
+}
+
+.btn {
+
+    font-size: 20px;
+    padding: 5px;
+    background-color: red;
+    color: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+
+/* meadia query part start */
+
+@media screen and (min-width:300px) and (max-width:600px) {
+
+    .header {
+
+        margin-top: -234px;
+    }
+
+    .header h2 {
+        margin-top: 265px;
+
+
+        margin-left: 70px;
+
+    }
+
+
+    .team {
+        font-size: 15px;
+        padding-left: 15px;
+        margin-top: -169px;
+    }
+
+
+    .team p {
+        text-align:justify;
+        
+        margin: auto;
+        font-size:14px;
+padding-left:0px;
+    }
+
+    .custmer-text p {
+
+        padding-top: 18px;
+
+    }
+
+    .col1 img {
+        height: 200px;
+    }
+
+    .custmer-text h3 {
+
+        margin-left: 72px;
+    }
+
+    .custmer-text p {
+        padding-left: 81px;
+    }
+
+    .approch {
+        margin-top: -18px;
+    }
+
+
+    .apro-text {
+        padding-top: 66px;
+        margin-left: 39px;
+    }
+
+    #op {
+        font-size:15px;
+    }
+
+    .contact-text {
+        margin-top: 57px;
+        margin-left: 21px;
+    }
+
+
+    .row1,
+    .row3 {
+
+
+        display: block;
+    }
+
+    .for {
+
+        width: 80%;
+
+        margin: auto;
+
+
+        padding: 0px;
+    }
+
+    .drect-col {
+        width: 100%;
+        margin: auto;
+        padding-right: 0px;
+
+    }
+
+    .drect-col iframe {
+        width: 100%;
+    }
+
+
+    .fo-col {
+        padding-top: 30px;
+        margin-left: 60px;
+        margin-top: 10px;
+    }
+
+    .vertical{
+
+
+        display:none;
+    }
+
+
+    span {
+        font-size: 15px;
+    }
+}
+
+/* responsive for laptop */
+
+@media screen and (min-width:768px) {
+
+
+
+    .header {
+        margin-top: -161px;
+    }
+
+    team h4 {
+
+        margin-bottom: 20px;
+        font-size: 15px;
+        color: red;
+        margin-left: 20px;
+
+
+
+    }
+
+
+
+    .team p {
+
+        padding-left: 250px;
+        padding-top: 18px;
+    }
+
+
+    .team {
+        padding-left: 38px;
+        margin-top: 28px;
+    }
+
+    .custmer-text p {
+        padding-top: 8px;
+        padding-left: 253px;
+    }
+
+    .approch {
+        margin-top: 80px;
+    }
+
+
+    .apro-text {
+        padding-top: 114px;
+        margin-left: 162px;
+    }
+
+
+    #op {
+        font-size: 20px;
+    }
+
+    .detail #bg {
+        padding: 109px 60px;
+    }
+
+    .contact-text {
+        margin-top: 85px;
+        font-size: 20px;
+    }
+
+
+    .apro-text {
+
+        font-size: 20px;
+
+
+
+    }
+
+
+
+
+    .drect-col .for {
+        margin-left: -80px;
+
+
+
+
+
+
+    }
+}
